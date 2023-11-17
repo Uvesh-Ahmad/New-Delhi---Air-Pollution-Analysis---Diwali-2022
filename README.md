@@ -28,6 +28,11 @@ Understanding the dynamics of air quality holds pivotal importance for public he
 <h4>🙏 Appreciation:</h4>h
 A heartfelt thank you to everyone who contributed to this project, and to the collaborative and knowledge-sharing spirit within the data science community. Let's persist in using data as a catalyst for positive transformations! 🌱🌬️
 
-
-
-hashtag#AirQuality hashtag#DataAnalysis hashtag#EnvironmentalImpact hashtag#NewDelhi hashtag#Diwali2022 hashtag#InsightsFromData hashtag#Sustainability hashtag#CleanEnvironment hashtag#CommunityGratitude hashtag#DataVisualization
+<h4>Connect Me!</h4>
+<div align="right"> 
+  <a href="mailto:siddiquiuvesh20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/uvesh-ahmad-a2aa6816a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
